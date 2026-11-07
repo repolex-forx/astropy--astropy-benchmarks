@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/astropy-benchmarks/commit/c76f9d7405eb6876c2124d82579d0d3786e026a7",
       "git:hexsha": "c76f9d7405eb6876c2124d82579d0d3786e026a7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
